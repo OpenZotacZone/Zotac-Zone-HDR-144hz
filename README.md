@@ -1,4 +1,6 @@
 # Zotac ZONE HDR and 144hz fix
+[![OpenZONE Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YFhK768cex)
+
 This script fixes the green tint on Bazzite/Fedora Atomic in HDR mode and enables 144hz for the integrated OLED screen
 
 
