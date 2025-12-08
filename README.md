@@ -22,4 +22,4 @@ This script is based on the work done by u/tocirahl who wrote a great tutorial o
 
 
 ## Credits
--  [u/tocirahl](https://www.reddit.com/user/tocirahl/) for providing the EC fan driver
+-  [u/tocirahl](https://www.reddit.com/user/tocirahl/) for providing the instructions that this script is based on
